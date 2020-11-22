@@ -70,7 +70,7 @@ msgid "Size"
 msgstr ""
 
 #: website/static/js/dissemin.js:617
-msgid "While uploading %(file)s the following error occured:"
+msgid "While uploading %(file)s the following error occurred:"
 msgstr ""
 
 #: website/static/js/dissemin.js:626 website/static/js/dissemin.js:681
@@ -79,7 +79,7 @@ msgid "Unknown error"
 msgstr ""
 
 #: website/static/js/dissemin.js:671
-msgid "While fetching file from %(url)s the following error occured:"
+msgid "While fetching file from %(url)s the following error occurred:"
 msgstr ""
 
 #: website/static/js/dissemin.js:781
